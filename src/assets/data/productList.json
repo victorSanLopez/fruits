@@ -1,0 +1,201 @@
+[
+	{
+		"id": 1,
+		"name": "Tomate",
+		"image": "https://www.stickees.com/files/food/vegetable/3683-tomato-sticker.png",
+		"description": "La tomate, fruit coloré et juteux, est un incontournable de la cuisine. Riche en vitamines et antioxydants, elle apporte une douceur et une acidité parfaite à nos plats. Que ce soit en sauce, en salade ou crue, elle égaye nos repas et évoque des souvenirs de soirées d'été. La tomate, c’est un peu le soleil dans notre assiette !",
+		"seasons": "Été"
+	},
+
+	{
+		"id": 2,
+		"name": "Fèves",
+		"image": "https://www.stickees.com/files/food/vegetable/3681-soybeans-sticker.png",
+		"description": "Les fèves, petites légumineuses délicates, sont un vrai trésor culinaire. Riche en protéines et en fibres, elles apportent une belle texture et une saveur douce à nos plats. Que ce soit dans une salade, en purée ou simplement sautées, elles ajoutent une touche printanière à nos assiettes. Avec leur couleur vive et leur goût subtil, les fèves nous rappellent la fraîcheur des marchés et les plaisirs simples de la cuisine !",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 3,
+		"name": "Piments",
+		"image": "https://www.stickees.com/files/food/vegetable/3680-pepper-sticker.png",
+		"description": "Les piments, véritables étoiles du monde des épices, apportent chaleur et caractère à nos plats. Qu'ils soient doux ou piquants, ils ajoutent une touche de couleur et de saveur intense. Riches en vitamines et antioxydants, ils stimulent non seulement nos papilles, mais aussi notre métabolisme. Que ce soit dans une sauce, une salsa ou en garniture, les piments apportent une explosion de saveurs et font danser nos sens !",
+		"seasons": "Été"
+	},
+
+	{
+		"id": 4,
+		"name": "Oignons",
+		"image": "https://www.stickees.com/files/food/vegetable/3678-onion-sticker.png",
+		"description": "Les oignons, incontournables de la cuisine, sont bien plus que de simples aromates. Leur saveur douce et sucrée se dévoile à la cuisson, apportant profondeur et richesse aux plats. Riches en antioxydants et en vitamines, ils ajoutent une touche de santé à nos recettes. Que ce soit crus en salade, caramélisés ou grillés, les oignons rehaussent tout, des soupes aux viandes, en nous rappelant que la simplicité peut rimer avec délice !",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 5,
+		"name": "Olives",
+		"image": "https://www.stickees.com/files/food/vegetable/3677-olive-sticker.png",
+		"description": "Les olives, petites merveilles de la Méditerranée, sont synonymes de saveurs et de convivialité. Riches en bonnes graisses et en antioxydants, elles apportent une touche salée et un croquant irrésistible à nos plats. Que ce soit en tapenade, dans une salade ou simplement à l'apéritif, les olives ajoutent une note de fraîcheur et de partage. Leur variété de couleurs et de goûts nous rappelle le soleil et les saveurs authentiques des régions ensoleillées !",
+		"seasons": "Automne"
+	},
+
+	{
+		"id": 6,
+		"name": "Champignons",
+		"image": "https://www.stickees.com/files/food/vegetable/3676-mushroom-sticker.png",
+		"description": "Les champignons, trésors de la nature, apportent une richesse de saveurs et de textures à nos plats. Que ce soit des champignons de Paris, des cèpes ou des shiitakés, ils sont polyvalents et peuvent être cuisinés de mille façons. Riches en vitamines et en minéraux, ils ajoutent également une touche de santé. Sautés, en risotto ou en sauce, les champignons ajoutent une profondeur umami qui ravit les papilles et évoque des promenades en forêt !",
+		"seasons": "Automne"
+	},
+
+	{
+		"id": 7,
+		"name": "Citrons",
+		"image": "https://www.stickees.com/files/food/vegetable/3675-lemon-sticker.png",
+		"description": "Le plein de vitamines pour affronter l'hiver !",
+		"seasons": "Automne"
+	},
+
+	{
+		"id": 8,
+		"name": "Épinards",
+		"image": "https://www.stickees.com/files/food/vegetable/3674-greens-sticker.png",
+		"description": "À manger frais pour ne pas traumatiser vos enfants",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 9,
+		"name": "Gingembre",
+		"image": "https://www.stickees.com/files/food/vegetable/3673-ginger-sticker.png",
+		"description": "Le gingembre, racine aux multiples bienfaits, est une véritable star des cuisines du monde. Avec son goût piquant et frais, il rehausse plats sucrés et salés, ajoutant une touche d’exotisme à nos recettes. Riche en antioxydants et connu pour ses propriétés anti-inflammatoires, il est également un allié pour la digestion. Que ce soit en infusion, en marinade ou en pâtisserie, le gingembre apporte une chaleur agréable qui nous transporte vers des horizons lointains !",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 10,
+		"name": "Ail",
+		"image": "https://www.stickees.com/files/food/vegetable/3672-garlic-sticker.png",
+		"description": "Aide à fluidifier le sang",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 11,
+		"name": "Carottes",
+		"image": "https://www.stickees.com/files/food/vegetable/3621-carrot-sticker.png",
+		"description": "Ne rends pas plus aimable, mais est parfaitement délicieux",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 12,
+		"name": "Pak Choi",
+		"image": "https://www.stickees.com/files/food/vegetable/3670-bok-choy-sticker.png",
+		"description": "Croquant et exotique",
+		"seasons": "Automne"
+	},
+
+	{
+		"id": 13,
+		"name": "Courges",
+		"image": "https://www.stickees.com/files/food/vegetable/3642-pumpkin-sticker.png",
+		"description": "Une ribambelle de formes et de couleurs",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 14,
+		"name": "Poivrons",
+		"image": "https://www.stickees.com/files/food/vegetable/3641-pepper-sticker.png",
+		"description": "Pleins de couleurs",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 15,
+		"name": "Aubergine",
+		"image": "https://www.stickees.com/files/food/vegetable/3639-eggplant-sticker.png",
+		"description": "À faire griller à la flamme",
+		"seasons": "Été"
+	},
+
+	{
+		"id": 16,
+		"name": "Choux",
+		"image": "https://www.stickees.com/files/food/vegetable/3638-cabbage-sticker.png",
+		"description": "De la vitamine C tout l'hiver",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 17,
+		"name": "Rutabaga",
+		"image": "https://www.stickees.com/files/food/vegetable/3635-swede-sticker.png",
+		"description": "Redécouvrez les légumes oubliés",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 18,
+		"name": "Radis",
+		"image": "https://www.stickees.com/files/food/vegetable/3633-radish-sticker.png",
+		"description": "Ça croque et ça pique",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 19,
+		"name": "Poireaux",
+		"image": "https://www.stickees.com/files/food/vegetable/3629-leek-sticker.png",
+		"description": "Prout",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 20,
+		"name": "Petit pois",
+		"image": "https://www.stickees.com/files/food/vegetable/3627-green-bean-sticker.png",
+		"description": "Incomparablement meilleurs frais",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 21,
+		"name": "Concombre",
+		"image": "https://www.stickees.com/files/food/vegetable/3625-cucumber-sticker.png",
+		"description": "Parfait pour vos salades pimentées",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 22,
+		"name": "Maïs",
+		"image": "https://www.stickees.com/files/food/vegetable/3623-corn-sticker.png",
+		"description": "De la couleur dans l'assiette",
+		"seasons": "Printemps"
+	},
+
+	{
+		"id": 23,
+		"name": "Chou fleur",
+		"image": "https://www.stickees.com/files/food/vegetable/3622-cauliflower-sticker.png",
+		"description": "Croquant et beaucoup trop mignon",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 24,
+		"name": "Choux de Bruxelles",
+		"image": "https://www.stickees.com/files/food/vegetable/3619-brussels-sprout-sticker.png",
+		"description": "Mal aimés à tort",
+		"seasons": "Hiver"
+	},
+
+	{
+		"id": 25,
+		"name": "Citrouilles",
+		"image": "https://www.stickees.com/files/food/vegetable/3616-pumpkin-sticker.png",
+		"description": "Délicieux dans des tartes sucrées",
+		"seasons": "Hiver"
+	}
+]

@@ -1,0 +1,85 @@
+/* * {
+	border: solid 1px red;
+} */
+
+#root {
+	color: whitesmoke;
+}
+
+header {
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: fit-content;
+}
+
+nav > button {
+	display: flexbox;
+	justify-content: space-between;
+	max-width: fit-content;
+}
+
+main {
+	display: flex;
+	justify-content: space-around;
+}
+
+section {
+	display: flex;
+}
+
+aside {
+	display: flex;
+	border: solid 3px whitesmoke;
+	border-radius: 25px;
+	padding: 2em;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+}
+
+.fruits-icon-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	max-width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fruits-icon {
+	width: 50px;
+	margin: 1em;
+	padding: 1em;
+	border-radius: 100%;
+	background-color: lightgrey;
+}
+
+.details {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 1em;
+}
+
+.image-detail {
+	width: 250px;
+	border: solid 3px whitesmoke;
+	padding: 1em;
+	border-radius: 100%;
+	background-color: aqua;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+.fruits-button {
+	background: none;
+	border: none;
+	outline: none;
+	box-shadow: none;
+	max-height: fit-content;
+	max-width: fit-content;
+}
